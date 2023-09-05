@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\bin\Debug\net6.0\CENCOMER_03.exe
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\bin\Debug\net6.0\CENCOMER_03.deps.json
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\bin\Debug\net6.0\CENCOMER_03.runtimeconfig.json
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\bin\Debug\net6.0\CENCOMER_03.dll
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\bin\Debug\net6.0\CENCOMER_03.pdb
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\CENCOMER_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\CENCOMER_03.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\CENCOMER_03.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\CENCOMER_03.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\CENCOMER_03.dll
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\refint\CENCOMER_03.dll
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\CENCOMER_03.pdb
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\CENCOMER_03.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\sistemas\CENCOMER_03\CENCOMER_03\obj\Debug\net6.0\ref\CENCOMER_03.dll
